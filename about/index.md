@@ -8,8 +8,8 @@ comments: false
     
 <center><a href="http://zlzh88.github.io"><b>HYO</b></a>, 느려도 꾸준히.</center>
 
-:raising_hand:
-##  Introduce
+
+##  :raising_hand: Introduce
 * Hi! I'm HYO. 
 
 ## :phone: Contact
