@@ -8,14 +8,15 @@ comments: false
     
 <center><a href="http://zlzh88.github.io"><b>HYO</b></a>, 느려도 꾸준히.</center>
 
-:raising_hand: ##  Introduce
+:raising_hand:
+##  Introduce
 * Hi! I'm HYO. 
 
-:phone: ##  Contact
+## :phone: Contact
 * e-mail : zlzh88@jejunu.ac.kr
 * github : github.com/zlzh88
     
-:page_with_curl: ##  History
+## :page_with_curl: History
 * 2018.03.01. 제주대학교 사범대학 컴퓨터교육과 입학
 * 2019.07.01. - 2019.07.26. Eins S&C 현장실습 ((주)아인스에스엔씨)
     * 제주 버스 데이터에 대한 '탐색적 데이터 분석'
