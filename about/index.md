@@ -9,13 +9,11 @@ comments: false
 <center><a href="http://zlzh88.github.io"><b>HYO</b></a> ' blog :).</center>
 
 ## :raising_hand: Introduce
-    * Hi! I'm HYO. 
-    
-    
+* Hi! I'm HYO. 
 
 ## :phone: Contact
-    * e-mail : zlzh88@jejunu.ac.kr
-    * github : github.com/zlzh88
+* e-mail : zlzh88@jejunu.ac.kr
+* github : github.com/zlzh88
     
 ## :page_with_curl: History
 * 2018.03.01. 제주대학교 사범대학 컴퓨터교육과 입학
