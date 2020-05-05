@@ -31,7 +31,7 @@ comments: true
            그리고 아름답고 직관적인 사용자 경험을 위한 자연스러운 애니메이션을 특징으로 합니다."    
             *Nicholas Jitkoff, Google’s lead Designer*
     3. 관련 동영상 
-    <iframe width="560" height="315" src="https://youtu.be/Q8TXgCzxEnw" frameborder="0"> </iframe>
+    <iframe width="300" height="145" src="//www.youtube.com/watch?v=Q8TXgCzxEnw#action=share" frameborder="0"> </iframe>
 
 2. fork 한 이유?
  
@@ -39,101 +39,24 @@ comments: true
 이때, 팀원이 2명이라는 점으로 인하여 프로젝트의 질을 위해서는 시간과 인력이 절대적으로 부족한 실정입니다.
 이러한 상황에서 디자인 역시 놓치고 싶지않았던 본 팀에서는 오픈소스를 적극 활용하고자 하였고, 그 중 구글의 프로젝트인 'Meterial Design'을 fork 하게 되었습니다.   
                      
-3. fork 해온 github 저장소 가기 <a href="https://github.com/zlzh88/material-components-web" class="fork-material"> GO!</a>
+3. fork 해온 github 저장소 가기 <a href="https://github.com/zlzh88/material-components-web" class="btn btn-info"> GO!</a>
 
-
+[참고 자료](https://leipiel.tistory.com/3)
 
 ## ACOpy
 
-## Heading 2
+1. ACOpy란?
+    1. ACOpy는 'A Python implementation of the Ant Colony Optimization Meta-Heuristic'입니다.
+    2. 그럼, 'Ant Colony Optimization Meta-Heuristic (Algorithm)'은 뭐지?
+        
+        관련 동영상으로 설명을 대체하겠습니다 :)
+           <iframe width="300" height="145" src="//www.youtube.com/watch?v=qfeymoF8pb4" frameborder="0"> </iframe>
+  
+2. fork 한 이유?
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
-## KBD
-
-You can also use `<kbd>` tag for keyboard buttons.
-
-{% highlight html %}
-<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
-{% endhighlight %}
-
-Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+ 앞선 이유와 같이, 학과에서 협업프로젝트를 진행하고 있습니다. 
+ 프로젝트는 현재 '다중인원/다중경유의 최단 경로 알고리즘 연구'에 초점을 맞추어 진행하고 있습니다.
+ 따라서 최단경로에 관한 알고리즘들에 관한 공부 및 개발이 필요합니다. 
+ 관련한 자료를 찾던 중, ant colony algorithm(개미 군집화 알고리즘)에 관한 오픈 소스가 있어 이를 읽어 학습함과 동시에 필요 맞도록 변경시킬 수 있을 것으로 판단하여 'ACOpy'를 포크하게 되었습니다.
+  
+3. fork 해온 github 저장소 가기 <a href="https://github.com/zlzh88/acopy" class="btn btn-info"> GO!</a>
