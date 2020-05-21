@@ -29,7 +29,7 @@ comments: false
     * <a href = 'http://haniumexpo.kr/main/'> 2019 한이음 엑스포 
 * 2019.01. - now 'RFID와 실시간 위치 인식 기술 기반의 스마트 도서 정리 카트' - '다중인원/다중경유지의 최단경로 알고리즘' 연구
 
-## ::fork_and_knife: Fork 
+## :hushed: Fork 
 * 관심있는 오픈소스 
     * Material
     * ACOpy
